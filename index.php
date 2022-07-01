@@ -1,3 +1,7 @@
+<?php
+include "./assets/utils/config.php";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -16,7 +20,7 @@
           <li><a href="#">Product</a></li>
           <li><a href="#">Cart</a></li>
           <li><a href="#">Register</a></li>
-          <li><a href="#">Login</a></li>
+          <li><a href="login.php">Login</a></li>
         </ul>
       </div>
 
